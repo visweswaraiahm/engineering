@@ -1,4 +1,6 @@
 EEE
 CSE
 ECE
+MECH
+CIVIL
 etc
